@@ -1,4 +1,4 @@
-# BlackJack
+# Black Jack
 
 - In this Project I used everything I've learned so far and push my skills to the limmit!
 
