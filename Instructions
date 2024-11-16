@@ -1,0 +1,22 @@
+-Start by typing 'y' to play the game.
+-The game begins with two cards for you and the computer.
+-Your goal is to get as close to 21 points as possible without going over.
+-You can "hit" (draw a card) or "stand" (keep your hand).
+-The computer will keep drawing cards until it has 17 points or more.
+-If you get 21, you win automatically!
+
+Example:
+.------.            _     _            _    _            _    
+|A_  _ |.          | |   | |          | |  (_)          | |   
+|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
+| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
+`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
+      |  \/ K|                            _/ |                
+      `------'                           |__/           
+Your cards: [7, 8], current score: 15
+Computer's first card: 9
+Type 'y' to get another card, type 'n' to pass: y
+Your cards: [7, 8, 3], current score: 18
+Computer's first card: 9
+...
